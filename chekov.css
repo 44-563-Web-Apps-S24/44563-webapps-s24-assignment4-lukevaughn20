@@ -1,0 +1,31 @@
+.speech {
+    font-size: 24px;
+    font: Georgia;
+    color:black;
+}
+
+.direction{
+    font-size: 18px;
+    font: Helvetica;
+    color:black;
+    background-color: lightcyan;
+}
+
+.direction:hover{
+    color:darkgreen;
+    background-color: lightpink;
+}
+
+.astroff{
+    color:darkslateblue;
+}
+
+.marina{
+    color: darkmagenta;
+}
+
+.voitski{
+    color: darkgoldenrod;
+}
+
+
