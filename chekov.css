@@ -16,6 +16,11 @@
     background-color: lightpink;
 }
 
+.name:hover{
+    text-shadow: 0 0 3px hotpink;
+    border: solid 2px red;
+}
+
 .astroff{
     color:darkslateblue;
 }
@@ -27,6 +32,8 @@
 .voitski{
     color: darkgoldenrod;
 }
+
+
 
 
 table{
