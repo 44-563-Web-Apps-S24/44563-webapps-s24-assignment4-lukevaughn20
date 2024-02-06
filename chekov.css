@@ -1,11 +1,11 @@
 .speech {
-    font-size: 24px;
+    font-size: 18px;
     font: Georgia;
     color:black;
 }
 
 .direction{
-    font-size: 18px;
+    font-size: 14px;
     font: Helvetica;
     color:black;
     background-color: lightcyan;
@@ -29,3 +29,14 @@
 }
 
 
+table{
+    border:solid 5px blue;
+    border-collapse: separate;
+    color:black;
+    text-align: center;
+    padding: 3px;
+}
+th, td{
+    padding: 5px;
+    border: solid 2px blue;
+}
